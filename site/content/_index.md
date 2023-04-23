@@ -1,20 +1,48 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: Psikolog Putu Indah
+subtitle: Membantu orang tanpa masalah
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: Putu Indah Wulandari
+  text: >-
+    Putu Indah Wulandari adalah seorang Psikolog Klinis Dewasa lulusan S1
+    Psikologi di Universitas Indonesia dan S2 Psikologi Profesi Klinis Dewasa di
+    Unika Atma Jaya Jakarta. Ia juga seorang praktisi meditasi yang telah
+    mendalami meditasi dan spiritual sejak kecil. Selain itu, ia adalah praktisi
+    Reiki Tummo dan Tarot Reader. Putu Indah, demikian ia dipanggil, memiliki
+    banyak pengalaman dalam menangani berbagai masalah klien dari berbagai
+    masalah psikologis.
 
+
+    Dalam membantu mengatasi masalah yang dihadapi para kliennya, ia selalu menekankan bahwa setiap manusia yang lahir ke dunia telah memiliki berbagai potensi dan keunggulan dalam dirinya. Peran dirinya adalah membantu klien untuk menyadari potensi tersebut dan membantu menemukan jalan yang terang untuk mengatasi berbagai masalah kehidupan. 
+
+
+    Ia percaya bahwa setiap orang mampu memulihkan dirinya sendiri dan mampu berkembang, bertumbuh menjadi pribadi yang jauh lebih baik. Seluruh layanan yang dibuka bertujuan untuk membantu dan membimbing setiap individu atau kelompok individu untuk menemukan kebahagian dan kedamaian dalam kehidupan.
+intro:
+  heading: Masalah yang Ditangani
+  text: >-
+    Gangguan kecemasan, trauma, isu relasi (pasangan, keluarga, pertemanan),
+    stres, depresi, psikosomatis, regulasi emosi, bipolar, dan masalah
+    psikologis lainnya.
+
+
+    Transpersonal Psychology (Psikologi Spiritual), Positif Psychology, Humanistic Psychology, Client-Centered Therapy, Mindfulness Based Stress Reduction Therapy, Dialectic Behavioral Therapy, Psychoanalysis Therapy.
+products:
+  - image: img/illustrations-coffee.svg
+    text: Konseling psikologis adalah sesi bagi Anda untuk menceritakan masalah yang
+      sedang Anda hadapi. Pada sesi ini Anda dapat mengungkapkan pikiran dan
+      perasaan Anda tanpa rasa takut, ragu, dan khawatir kepada Psikolog Anda.
+      Segala data maupun informasi yang Anda sampaikan akan dijaga
+      kerahasiaannya.
+  - image: /img/illustrations-coffee-gear.svg
+    text: Merupakan sesi lanjutan dari sesi konseling. Pada sesi ini Anda akan
+      mendapatkan penanganan lebih mendalam. Psikolog akan memilihkan dan
+      memberikan terapi yang paling tepat, aman untuk dapat mengatasi masalah
+      Anda.
+values:
+  heading: Our values
+  text: Coffee is an amazing part of human culture but it has a dark side too –
+    one of colonialism and mindless abuse of natural resources and human lives.
+    We want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
+---
